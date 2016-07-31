@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.7.1
+Created-By: 14.0-b15 (Sun Microsystems Inc.)
+Main-Class: googletranslate.GoogleTranslateApp
+Class-Path: lib/appframework-1.0.3.jar lib/swing-worker-1.1.jar lib/sw
+ ing-layout-1.0.3.jar lib/AbsoluteLayout.jar lib/htmlentities.jar lib/
+ icu4j-4_2_1.jar lib/cpdetector_1.0.7.jar lib/antlr.jar lib/chardet.ja
+ r lib/jargs.jar
+X-COMMENT: Main-Class will be added automatically by build
+
